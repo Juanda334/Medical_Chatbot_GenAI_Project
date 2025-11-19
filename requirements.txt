@@ -1,0 +1,14 @@
+flask
+boto3
+awscli
+pypdf
+langchain
+langchain_community
+pyarrow==22.0.0
+streamlit
+faiss-cpu
+sentence-transformers
+python-dotenv
+langchain-pinecone
+
+-e .
