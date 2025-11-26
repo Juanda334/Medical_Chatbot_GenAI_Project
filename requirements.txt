@@ -3,6 +3,7 @@ boto3
 awscli
 pypdf
 langchain
+langchain_aws
 langchain_community
 langchain-text-splitters
 pyarrow
