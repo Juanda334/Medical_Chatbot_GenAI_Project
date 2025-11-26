@@ -4,11 +4,14 @@ awscli
 pypdf
 langchain
 langchain_community
-pyarrow==22.0.0
+langchain-text-splitters
+pyarrow
 streamlit
 faiss-cpu
 sentence-transformers
 python-dotenv
 langchain-pinecone
+transformers
+tokenizers
 
 -e .
